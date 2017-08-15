@@ -1,0 +1,25 @@
+## Container Orchestration
+Hva er det, hvorfor er det viktig og når trenger man det?
+Vi skal diskutere muligheter, gevinster og utfordringer i større prosjekter.
+
+## Docker Compose
+Vi skal skrive en Docker Compose fil som orkestrerer flere Docker kontainere.
+
+## Docker Swarm
+Hvordan kommuniserer vi på en enkel måte med flere Docker noder samtidig."
+
+## Docker Network
+Når er det smart å legge kontainere sammen i et felles netverk, og
+hvordan kommuniserer vi på tvers av netverkene?
+
+## Service Discovery
+Hva er Service Discovery og når er det viktig?
+
+## Consul
+Vi skal bruke Consul for å finne tjenester via DNS og HTTP.
+
+## Configuration Management
+Hvilke muligheter har vi for å styre applikasjonskonfigurasjonene.
+
+## Consul KV
+En praktisk gjennomgang av konfigurasjonsstyringen men Consul's Keystore.
