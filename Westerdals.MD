@@ -19,7 +19,7 @@ Hva er Service Discovery og når er det viktig?
 Vi skal bruke Consul for å finne tjenester via DNS og HTTP.
 
 ## Configuration Management
-Hvilke muligheter har vi for å styre applikasjonskonfigurasjonene.
+Vi undersøker muligheter for styring  av applikasjonskonfigurasjoner.
 
 ## Consul KV
 En praktisk gjennomgang av konfigurasjonsstyringen men Consul's Keystore.
