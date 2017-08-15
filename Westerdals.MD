@@ -13,7 +13,7 @@ Når er det smart å legge kontainere sammen i et felles netverk, og
 hvordan kommuniserer vi på tvers av netverkene?
 
 ## Service Discovery
-Hva er Service Discovery og når er det viktig?
+Hva er Service Discovery og når er det viktig? [->](https://github.com/svenmalvik/articles/blob/master/ServiceDiscovery.MD)
 
 ## Consul
 Vi skal bruke Consul for å finne tjenester via DNS og HTTP.
