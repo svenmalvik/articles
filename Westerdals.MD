@@ -16,7 +16,7 @@ hvordan kommuniserer vi på tvers av netverkene?
 Hva er Service Discovery og når er det viktig? [->](https://github.com/svenmalvik/articles/blob/master/ServiceDiscovery.MD)
 
 ## Consul
-Vi skal bruke Consul for å finne tjenester via DNS og HTTP.
+Vi skal bruke Consul for å finne tjenester via DNS og HTTP. [->](https://github.com/svenmalvik/articles/blob/master/Consul.MD)
 
 ## Configuration Management
 Vi undersøker muligheter for styring  av applikasjonskonfigurasjoner.
