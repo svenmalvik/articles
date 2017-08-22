@@ -1,4 +1,4 @@
-## Container Orchestration
+# Container Orchestration
 Hva er det, hvorfor er det viktig og når trenger man det?
 Vi skal diskutere muligheter, gevinster og utfordringer i større prosjekter.
 
@@ -12,13 +12,13 @@ Hvordan kommuniserer vi på en enkel måte med flere Docker noder samtidig."
 Når er det smart å legge kontainere sammen i et felles netverk, og
 hvordan kommuniserer vi på tvers av netverkene?
 
-## Service Discovery
+# Service Discovery
 Hva er Service Discovery og når er det viktig? [->](https://github.com/svenmalvik/articles/blob/master/ServiceDiscovery.MD)
 
 ## Consul
 Vi skal bruke Consul for å finne tjenester via DNS og HTTP. [->](https://github.com/svenmalvik/articles/blob/master/Consul.MD)
 
-## Configuration Management
+# Configuration Management
 Vi undersøker muligheter for styring  av applikasjonskonfigurasjoner.
 
 ## Consul KV
