@@ -8,4 +8,4 @@
 - Gjennomgang av arbeidsflaten i Consul
 - API
 
-** Installasjon
+** Installasjon av 3 agenter
