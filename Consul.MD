@@ -1,11 +1,13 @@
 ## Hva er Consul?
 
 - Service Discovery og konfigurasjonsstyring
+- Gjennomgang av arbeidsflaten i Consul
 - Distribuert system
 - Klient: Stateless, videresender RPC (Remote Procedure Call til serveren)
 - Server: ???
-- Leader election (Gossip, Consesnsus)
-- Gjennomgang av arbeidsflaten i Consul
-- API
 
 ** Installasjon av 3 agenter
+** API
+
+
+- Leader election (Gossip, Consesnsus)
