@@ -6,8 +6,8 @@
 - Klient: Stateless, videresender RPC (Remote Procedure Call til serveren)
 - Server: ???
 
-** Installasjon av 3 agenter
-** API
+- ** Installasjon av 3 agenter
+- ** API
 
 
 - Leader election (Gossip, Consesnsus)
