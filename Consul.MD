@@ -9,3 +9,5 @@
 - Leader election (Gossip, Consesnsus)
 
 ## Gjennomgang av arbeidsflaten i Consul
+
+- api
