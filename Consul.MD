@@ -1,6 +1,6 @@
 ## Hva er Consul?
 
-- Service Discovery og konfigurasjonsstyring (detaljene kommer)
+- Service Discovery og konfigurasjonsstyring
 - Distribuert system
 - Klient: Stateless, videresender RPC (Remote Procedure Call til serveren)
 - Server: ???
