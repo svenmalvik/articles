@@ -1,4 +1,4 @@
-## Hva er Consul og hva kan det?
+## Hva er Consul?
 
 - Service Discovery og konfigurasjonsstyring (detaljene kommer)
 - Distribuert system
