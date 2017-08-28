@@ -7,3 +7,5 @@
 - Leader election (Gossip, Consesnsus)
 - Gjennomgang av arbeidsflaten i Consul
 - API
+
+** Installasjon
